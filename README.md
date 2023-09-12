@@ -1,6 +1,4 @@
 # 1000-Genomes-Project
-# 1000 Genomes Project
-
 ## Overview
 
 The 1000 Genomes Project is a groundbreaking international research initiative aimed at creating a comprehensive map of genetic variation in humans. This README file provides an overview of the project, its objectives, data sources, and how to use the data provided in this repository.
