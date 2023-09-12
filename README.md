@@ -45,7 +45,7 @@ To get started with the 1000 Genomes Project data, follow these steps:
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/1000-genomes-project.git
+   git clone [https://github.com/your-username/1000-genomes-project.git](https://github.com/Amit7Singh/1000-Genomes-Project)
    ```
 
 2. Explore the data files and documentation to understand the format and content.
